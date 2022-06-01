@@ -28,7 +28,8 @@ public class ObjetoEnviaEmail {
 
 	private String userName = "andersonlenzjava@gmail.com";
 	private String senha = "%5Senhanova";
-
+	
+	//teste
 	private String listaDestinatarios = "";
 	private String nomeRemetente = "";
 	private String assuntoEmail = "";
